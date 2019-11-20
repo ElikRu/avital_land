@@ -19,7 +19,7 @@
 #move all files from elik to /tensorflow1/models/research/object_detection/
 #TODO auto move all files from elik
 
-#edit_file: models/research/object_detection/training/faster_rcnn_inception_v2_pets.config
+# edit_file: models/research/object_detection/training/faster_rcnn_inception_v2_pets.config
 	#fine_tune_checkpoint -> "/tensorflow1/models/research/object_detection/faster_rcnn_inception_v2_coco_2018_01_28/model.ckpt"
 	#input_path -> "/tensorflow1/models/research/object_detection/train.record"
 	#label_map_path -> "/tensorflow1/models/research/object_detection/training/labelmap.pbtxt"
