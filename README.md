@@ -1,6 +1,15 @@
 # avital_land
 
 
+docker build and config for the avital_land
+
+
+
+
+
+
+
+
 docker exec -it <mycontainer>  bash
 docker images ls
 docker container ls
